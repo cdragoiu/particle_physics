@@ -1,0 +1,2 @@
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/T_tW/ntuple_T_tW_channel_DR_TuneZ2star_8TeV_powheg_tauola_01.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/Tbar_tW/ntuple_Tbar_tW_channel_DR_TuneZ2star_8TeV_powheg_tauola_01.root

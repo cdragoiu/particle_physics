@@ -1,0 +1,7 @@
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v1_01.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v1_02.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v2_01.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v2_02.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v2_03.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v2_04.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/TT/ntuple_TT_CT10_TuneZ2star_8TeV_powheg_tauola_v2_05.root

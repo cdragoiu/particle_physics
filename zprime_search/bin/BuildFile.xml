@@ -1,0 +1,9 @@
+<use name="root"/>
+<use name="MyAnalyses/CommonTools"/>
+
+<bin name="runZprime" file="Analyze.cc,Zprime.cc,Electrons.cc,HfElectrons.cc,GenInfo.cc,Corrections.cc,TreeWrapper.cc">
+    <lib name="RooUnfold"/>
+</bin>
+
+<bin name="addSmearFactor" file="SmearFactor.cc">
+</bin>

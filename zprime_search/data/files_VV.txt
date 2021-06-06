@@ -1,0 +1,9 @@
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/WW/ntuple_WW_TuneZ2star_8TeV_pythia6_tauola_01.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/WW/ntuple_WW_TuneZ2star_8TeV_pythia6_tauola_02.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/WW/ntuple_WW_TuneZ2star_8TeV_pythia6_tauola_03.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/WZ/ntuple_WZ_TuneZ2star_8TeV_pythia6_tauola_01.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/WZ/ntuple_WZ_TuneZ2star_8TeV_pythia6_tauola_02.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/WZ/ntuple_WZ_TuneZ2star_8TeV_pythia6_tauola_03.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/ZZ/ntuple_ZZ_TuneZ2star_8TeV_pythia6_tauola_01.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/ZZ/ntuple_ZZ_TuneZ2star_8TeV_pythia6_tauola_02.root
+/eos/uscms/store/user/cdragoiu/Ntuples_AFB/ZZ/ntuple_ZZ_TuneZ2star_8TeV_pythia6_tauola_03.root
